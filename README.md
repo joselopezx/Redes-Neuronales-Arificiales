@@ -1,5 +1,7 @@
 # Redes-Neuronales-Arificiales
 ## Perceptron Simple
+<img width="2063" height="1090" alt="Syntax Analysis" src="https://github.com/user-attachments/assets/a9e20e56-42ef-41e8-9857-85088c5c74db" />
+
 ### Ajuste de pesos  
 w(k+1) = w(k) + ne(k)x(k)
 ### Error
